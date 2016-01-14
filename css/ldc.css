@@ -1,0 +1,284 @@
+/* ESTRUCTURA*/
+
+#framecontent{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: 100%; /*Width of frame div*/
+	height: 130px;
+	overflow: hidden; /*Disable scrollbars. Set to "scroll" to enable*/
+	right: 0px;
+	left: 0px;
+	z-index: 3;
+}
+#footercontent{
+	position: absolute;
+	bottom: 0;
+	width: 100%; /*Width of frame div*/
+	height: 30px;
+	overflow: hidden; /*Disable scrollbars. Set to "scroll" to enable*/
+	right: 0px;
+	left: 0px;
+	z-index: 2;
+}
+
+#maincontent{
+	position: fixed;
+	top: 0px;
+	left: 0px; /*Set left value to WidthOfFrameDiv*/
+	right: 0px;
+	bottom: 0px;
+	overflow: auto;
+	z-index: 1;
+}
+.innertube{
+margin: 15px; /*Margins for inner DIV inside each DIV (to provide padding)*/
+}
+
+* html body{ /*IE6 hack*/
+	padding-top: 105;
+	padding-right: 0;
+	padding-bottom: 50;
+	padding-left: 0px;
+}
+
+* html #maincontent{ /*IE6 hack*/
+height: 100%; 
+width: 100%; 
+}
+
+/* BOTONES OVER*/
+#logo{
+	float: left;
+	height: 90px;
+	text-indent: -9999px;
+	width: 245px;
+	background-attachment: scroll;
+	background-color: transparent;
+	background-image: url(../img/logo.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+#logo:hover{background-position: 0 -90px;
+}
+
+#boton{
+	float: left;
+	height: 328px;
+	text-indent: -9999px;
+	width: 328px;
+	background-attachment: scroll;
+	background-color: transparent;
+	background-image: url(../img/boton.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+#boton:hover{background-position: 0 -328px;
+}
+
+/*BOTONES*/
+
+.menu {
+	font-family: 'ralewayextralight', "Arial", Gadget, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.menu:hover {
+	color: #CCC;
+}
+.familias {
+	font-family: 'ralewaymedium', "Arial", Gadget, sans-serif;
+	font-size: 14px;
+	color: #333;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.familias:hover {
+	color: #999;
+}
+.submenu {
+	font-family: 'ralewayregular', "Arial", Gadget, sans-serif;
+	font-size: 11px;
+	color: #999;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.submenu:hover {
+	color: #fff;
+}
+
+.footer {
+	font-family: 'ralewayregular', "Arial", Gadget, sans-serif;
+	font-size: 12px;
+	color: #999;
+	text-decoration: none;
+}
+.footer:hover {
+	color: #fff;
+}
+
+.comprar {
+	font-family: 'ralewayregular', "Arial", Gadget, sans-serif;
+	font-size: 14px;
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.comprar:hover {
+	color: #999;
+}
+
+.botontexto {
+	font-family:'ralewayregular', "Arial", Gadget, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+	text-decoration: none;
+}
+.botontexto:hover {
+	color: #999;
+}
+
+ /*TITULOS*/
+
+.titulo {
+	font-family:'playfair_displayregular', "Arial", Gadget, sans-serif;
+	font-size: 26px;
+	color: #FFF;
+	text-decoration: none;
+}
+.subtitulo {
+	font-family: 'playfair_displayregular', "Arial", Gadget, sans-serif;
+	font-size: 16px;
+	color: #000;
+	text-decoration: none;
+}
+.subtitulo-sans {
+	font-family: 'ralewaybold', "Arial", Gadget, sans-serif;
+	font-size: 16px;
+	color: #333;
+	text-decoration: none;
+}
+
+.titulo-medium {
+	font-family: 'playfair_displayregular', "Arial", Gadget, sans-serif;
+	font-size: 36px;
+	color: #333;
+	text-decoration: none;
+}
+.formato {
+	font-family:'ralewayregular', "Arial", Gadget, sans-serif;
+	font-size: 14px;
+	color: #666;
+	text-decoration: none;
+}
+.familia {
+	font-family:'playfair_displayregular', "Arial", Gadget, sans-serif;
+	font-size: 12px;
+	color: #666;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.productosrelacionados {
+	font-family:'ralewayextrabold', "Arial", Gadget, sans-serif;
+	font-size: 14px;
+	color: #666;
+	text-decoration: none;
+}
+
+/*TEXTO*/
+
+.textogrande {
+	font-family:'ralewayregular', "Arial", Gadget, sans-serif;
+	font-size: 16px;
+	color: #FFF;
+	text-decoration: none;
+}
+
+.texto {
+	font-family:'ralewaymedium', "Arial", Gadget, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	text-decoration: none;
+}
+.texto-rojo {
+	font-family:'ralewaymedium', "Arial", Gadget, sans-serif;
+	font-size: 12px;
+	color: #F00;
+	text-decoration: none;
+}
+
+.form {
+	font-family:'ralewaymedium', "Arial", Gadget, sans-serif;
+	font-size: 12px;
+	color: #333;
+	text-decoration: none;
+	background-color: #CCC;
+	height: 45px;
+	width: 426px;
+	border: 1px solid #CCC;
+	padding: 10px;
+}
+.form-news {
+	font-family:'ralewaymedium', "Arial", Gadget, sans-serif;
+	font-size: 12px;
+	color: #333;
+	text-decoration: none;
+	background-color: #CCC;
+	height: 20px;
+	width: 250px;
+	border: 1px solid #CCC;
+	padding: 5px;
+}
+
+.form-enviar {
+	font-family:'ralewaymedium', "Arial", Gadget, sans-serif;
+	font-size: 12px;
+	color: #333;
+	text-decoration: none;
+	background-color: #FFF;
+	height: 45px;
+	width: 100px;
+	border: 1px solid #CCC;
+	padding: 10px;
+}
+.form-enviar-news {
+	font-family:'ralewaymedium', "Arial", Gadget, sans-serif;
+	font-size: 12px;
+	color: #333;
+	text-decoration: none;
+	background-color: #FFF;
+	height: 35px;
+	width: 70px;
+	border: 1px solid #CCC;
+	padding: 10px;
+}
+
+
+.form-comentario {
+	font-family:'ralewaymedium', "Arial", Gadget, sans-serif;
+	font-size: 12px;
+	color: #333;
+	text-decoration: none;
+	background-color: #CCC;
+	height: 250px;
+	width: 426px;
+	border: 1px solid #CCC;
+	padding: 10px;
+}
+
+.borde-1px {
+	border: 1px solid #000;
+}
+.borde-3px {
+	border: 3px solid #000;
+}
+
+
+.subtexto {
+	font-family:'ralewaymedium', "Arial", Gadget, sans-serif;
+	font-size: 11px;
+	color: #999;
+	text-decoration: none;
+}
