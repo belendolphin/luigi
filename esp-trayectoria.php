@@ -63,6 +63,91 @@ body {
             <td class="texto"><table width="596" border="0" cellspacing="0" cellpadding="0">
               <tr>
                 <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                    <td class="textogrande"><a href="prensa/p01.pdf" target="_blank" class="botontexto">›› NOTA DE PRENSA</a></td>
+                  </tr>
+                  <tr>
+                    <td class="textogrande"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td><img src="img/pixel.gif" width="10" height="10" /></td>
+                        </tr>
+                      <tr>
+                        <td bgcolor="#666666"><img src="img/pixel.gif" width="10" height="1" /></td>
+                        </tr>
+                      <tr>
+                        <td><img src="img/pixel.gif" width="10" height="10" /></td>
+                        </tr>
+                      </table></td>
+                    </tr>
+                  <tr>
+                    <td class="textogrande"><a href="prensa/p02.pdf" target="_blank" class="botontexto">›› NOTA DE PRENSA</a></td>
+                    </tr>
+                  <tr>
+                    <td class="textogrande"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td><img src="img/pixel.gif" width="10" height="10" /></td>
+                        </tr>
+                      <tr>
+                        <td bgcolor="#666666"><img src="img/pixel.gif" width="10" height="1" /></td>
+                        </tr>
+                      <tr>
+                        <td><img src="img/pixel.gif" width="10" height="10" /></td>
+                        </tr>
+                      </table></td>
+                    </tr>
+                  <tr>
+                    <td class="textogrande"><a href="prensa/p03.pdf" target="_blank" class="botontexto">›› NOTA DE PRENSA</a></td>
+                    </tr>
+                  <tr>
+                    <td class="textogrande"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td><img src="img/pixel.gif" width="10" height="10" /></td>
+                      </tr>
+                      <tr>
+                        <td bgcolor="#666666"><img src="img/pixel.gif" width="10" height="1" /></td>
+                      </tr>
+                      <tr>
+                        <td><img src="img/pixel.gif" width="10" height="10" /></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td class="textogrande"><a href="prensa/p04.pdf" target="_blank" class="botontexto">›› NOTA DE PRENSA</a></td>
+                  </tr>
+                  <tr>
+                    <td class="textogrande"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td><img src="img/pixel.gif" width="10" height="10" /></td>
+                      </tr>
+                      <tr>
+                        <td bgcolor="#666666"><img src="img/pixel.gif" width="10" height="1" /></td>
+                      </tr>
+                      <tr>
+                        <td><img src="img/pixel.gif" width="10" height="10" /></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td class="textogrande">
+                      <a href="prensa/p05.pdf" target="_blank" class="botontexto">›› NOTA DE PRENSA</a></td>
+                  </tr>
+                  <tr>
+                    <td class="textogrande"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td><img src="img/pixel.gif" width="10" height="10" /></td>
+                      </tr>
+                      <tr>
+                        <td bgcolor="#666666"><img src="img/pixel.gif" width="10" height="1" /></td>
+                      </tr>
+                      <tr>
+                        <td><img src="img/pixel.gif" width="10" height="10" /></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td class="textogrande"><a href="prensa/p06.pdf" target="_blank" class="botontexto">›› NOTA DE PRENSA</a></td>
+                  </tr>
+
                   <tr>
                     <td class="textogrande"><a href="historia/h07.pdf" target="_blank" class="botontexto">›› 02/12/59 CARTA DE AGRADECIMIENTO DE LA EMBAJADA DE EEUU</a></td>
                     </tr>

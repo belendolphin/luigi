@@ -11,9 +11,7 @@
             <td><img src="img/misc.gif" width="20" height="20" /></td>
             <td><a href="esp-taller.php" class="menu">OFICIO DE SASTRERIA</a></td>
             <td><img src="img/misc.gif" width="20" height="20" /></td>
-            <td><a href="esp-historia.php" class="menu">HISTORIA</a></td>
-            <td><img src="img/misc.gif" width="20" height="20" /></td>
-            <td><a href="esp-prensa.php" class="menu">PRENSA</a></td>
+            <td><a href="esp-trayectoria.php" class="menu">TRAYECTORIA</a></td>
             <td><img src="img/misc.gif" width="20" height="20" /></td>
             <td><a href="esp-galeria.php" class="menu">TELAS</a></td>
             <td><img src="img/misc.gif" width="20" height="20" /></td>
