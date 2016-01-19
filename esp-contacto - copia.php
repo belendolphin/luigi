@@ -10,7 +10,6 @@
       <script type="text/javascript" src="js/jquery.easing.min.js"></script>
       <script type="text/javascript" src="js/supersized.3.2.7.min.js"></script>
       <script type="text/javascript" src="theme/supersized.shutter.min.js"></script>
-      <script type="text/javascript" src="js/contact.js"></script>
       <script type="text/javascript">
          jQuery(function($){
          $.supersized({
@@ -79,22 +78,6 @@
                                           </td>
                                        </tr>
                                     </table>
-                                    <table align="center">
-                                   	<td>
-                                   	<tr>
-                                   		<td>
-                                   		<form>
-                                   		<input id="contactName" placeholder="Ingrese su nombre.." class="name" required />
-                                   		<input id="contactEmail" placeholder="Ingrese su email.." class="email" type="email" required />
-                                   		<input id="contactPhone"placeholder="Ingrese su telefono.." class="telefono"/>
-                                   		<textarea rows="4" cols="50" id="contactMessage" placeholder="Ingrese su mensaje.." class="message" required></textarea>
-                                   		<input  class="btn" type="submit" id="contactSubmit" value="Enviar" />		
-                                   		</form>
-                                   		</td>
-                                   	</tr>
-                                   		
-                                 	</td>
-                                    </table>
                                  </td>
                                  <td width="328"><img src="img/productos/contacto.png" width="328" height="500" /></td>
                               </tr>
@@ -108,6 +91,15 @@
                </td>
             </tr>
          </table>
+         <form>
+			<input name="name" placeholder="Ingrese su nombre.." class="name" required />
+			<input name="emailaddress" placeholder="Ingrese su email.." class="email" type="email" required />
+		    <textarea rows="4" cols="50" name="subject" placeholder="Ingrese su mensaje.." class="message" required></textarea>
+		    <input name="submit" class="btn" type="submit" value="Enviar" />
+		</form>
+      </div>
+      <div name="newContact">
+      	
       </div>
       <div id="footercontent"><?php include("inc/footer.php"); ?></div>
    </body>
