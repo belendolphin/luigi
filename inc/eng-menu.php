@@ -14,6 +14,10 @@
             <td><a href="eng-taller.php" class="menu">TAYLORING</a></td>
             <td><img src="img/misc.gif" width="20" height="20" /></td>
             <td><a href="eng-historia.php" class="menu">HISTORY</a></td>
+             <td><img src="img/misc.gif" width="20" height="20" /></td>
+             <td><a href="eng-products-uomo.php" class="menu">PRODUCTS UOMO</a></td>
+                <td><img src="img/misc.gif" width="20" height="20" /></td>
+             <td><a href="eng-products-donna.php" class="menu">PRODUCTS DONNA</a></td>
             <td><img src="img/misc.gif" width="20" height="20" /></td>
             <td><a href="eng-prensa.php" class="menu">PRESS</a></td>
             <td><img src="img/misc.gif" width="20" height="20" /></td>

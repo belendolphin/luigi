@@ -13,6 +13,10 @@
             <td><img src="img/misc.gif" width="20" height="20" /></td>
             <td><a href="esp-trayectoria.php" class="menu">TRAYECTORIA</a></td>
             <td><img src="img/misc.gif" width="20" height="20" /></td>
+             <td><a href="esp-productos-uomo.php" class="menu">PRODUCTOS UOMO</a></td>
+             <td><img src="img/misc.gif" width="20" height="20" /></td>
+             <td><a href="esp-productos-donna.php" class="menu">PRODUCTOS DONNA</a></td>
+            <td><img src="img/misc.gif" width="20" height="20" /></td>
             <td><a href="esp-galeria.php" class="menu">TELAS</a></td>
             <td><img src="img/misc.gif" width="20" height="20" /></td>
             <td><a href="esp-contacto.php" class="menu">CONTACTO</a></td>
