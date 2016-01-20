@@ -39,6 +39,8 @@ slides 					:  	[			// Slideshow Images
     $(".fancybox").fancybox({
       openEffect  : 'elastic',
       closeEffect : 'elastic',
+      nextSpeed : 550,
+      prevSpeed : 550,
       helpers : {
         title : {
           type : 'float'

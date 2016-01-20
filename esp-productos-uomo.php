@@ -43,8 +43,8 @@
          $(function () {
            // Slideshow 3
            $("#slider3").responsiveSlides({
+             maxwidth: 400,
              manualControls: '#slider3-pager',
-             maxwidth: 540
            });
          
            
@@ -72,40 +72,20 @@
                         <table width="100%" border="0" cellspacing="0" cellpadding="30">
                            <tr>
                               <ul class="rslides" id="slider3">
-                                 <li><img src="img/uomo/1.jpg" alt=""></li>
-                                 <li><img src="img/uomo/2.jpg" alt=""></li>
-                                 <li><img src="img/uomo/3.jpg" alt=""></li>
-                                 <li><img src="img/uomo/4.jpg" alt=""></li>
-                                 <li><img src="img/uomo/5.jpg" alt=""></li>
-                                 <li><img src="img/uomo/6.jpg" alt=""></li>
-                                 <li><img src="img/uomo/7.jpg" alt=""></li>
-                                 <li><img src="img/uomo/8.jpg" alt=""></li>
-                                 <li><img src="img/uomo/9.jpg" alt=""></li>
-                                 <li><img src="img/uomo/10.jpg" alt=""></li>
-                                 <li><img src="img/uomo/11.jpg" alt=""></li>
-                                 <li><img src="img/uomo/12.jpg" alt=""></li>
-                                 <li><img src="img/uomo/13.jpg" alt=""></li>
-                                 <li><img src="img/uomo/14.jpg" alt=""></li>
-                                 <li><img src="img/uomo/15.jpg" alt=""></li>
-                                 <li><img src="img/uomo/16.jpg" alt=""></li>
+                                 <li><img src="img/uomo/LDC-Atache 006 - baja.JPG" alt=""></li>
+                                 <li><img src="img/uomo/LDC-Camisa Pera 006 - baja.JPG" alt=""></li>
+                                 <li><img src="img/uomo/LDC-Cinturon Negro y Rosa 006 - baja.JPG" alt=""></li>
+                                 <li><img src="img/uomo/LDC-Gemelos Cristal 008 - baja.JPG" alt=""></li>
+                                 <li><img src="img/uomo/LDC-Traje y Chaleco Rallas 004 - baja.JPG" alt=""></li>
+                                 <li><img src="img/uomo/LDC-Zapatos Bota 032 - baja.JPG" alt=""></li>
                               </ul>
                               <ul id="slider3-pager">
-                                 <li><a href="#"><img src="img/uomo/1_thumb.jpg" alt=""></a></li>
-                                 <li><a href="#"><img src="img/uomo/2_thumb.jpg" alt=""></a></li>
-                                 <li><a href="#"><img src="img/uomo/3_thumb.jpg" alt=""></a></li>
-                                 <li><a href="#"><img src="img/uomo/4_thumb.jpg" alt=""></a></li>
-                                 <li><a href="#"><img src="img/uomo/5_thumb.jpg" alt=""></a></li>
-                                 <li><a href="#"><img src="img/uomo/6_thumb.jpg" alt=""></a></li>
-                                 <li><a href="#"><img src="img/uomo/7_thumb.jpg" alt=""></a></li>
-                                 <li><a href="#"><img src="img/uomo/8_thumb.jpg" alt=""></a></li>
-                                 <li><a href="#"><img src="img/uomo/9_thumb.jpg" alt=""></a></li>
-                                 <li><a href="#"><img src="img/uomo/10_thumb.jpg" alt=""></a></li>
-                                 <li><a href="#"><img src="img/uomo/11_thumb.jpg" alt=""></a></li>
-                                 <li><a href="#"><img src="img/uomo/12_thumb.jpg" alt=""></a></li>
-                                 <li><a href="#"><img src="img/uomo/13_thumb.jpg" alt=""></a></li>
-                                 <li><a href="#"><img src="img/uomo/14_thumb.jpg" alt=""></a></li>
-                                 <li><a href="#"><img src="img/uomo/15_thumb.jpg" alt=""></a></li>
-                                 <li><a href="#"><img src="img/uomo/16_thumb.jpg" alt=""></a></li>
+                                 <li><a href="#"><img src="img/uomo/thmb_LDC-Atache 006 - baja.JPG" alt=""></a></li>
+                                 <li><a href="#"><img src="img/uomo/thmb_LDC-Camisa Pera 006 - baja.JPG" alt=""></a></li>
+                                 <li><a href="#"><img src="img/uomo/thmb_LDC-Cinturon Negro y Rosa 006 - baja.JPG" alt=""></a></li>
+                                 <li><a href="#"><img src="img/uomo/thmb_LDC-Gemelos Cristal 008 - baja.JPG" alt=""></a></li>
+                                 <li><a href="#"><img src="img/uomo/thmb_LDC-Traje y Chaleco Rallas 004 - baja.JPG" alt=""></a></li>
+                                 <li><a href="#"><img src="img/uomo/thmb_LDC-Zapatos Bota 032 - baja.JPG" alt=""></a></li>
                               </ul>
                            </tr>
                         </table>
