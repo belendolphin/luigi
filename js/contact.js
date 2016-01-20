@@ -18,13 +18,13 @@ $(document).ready(function() {
             success : function(data, textStatus, jqXHR) {
                 if(data.success){
                     alert("Muchas gracias por su consulta");
+                }else{
+                    alert('Disculpe existió un problema, intente de nuevo mas tarde por favor');
                 }
             },
             // código a ejecutar si la petición falla; son pasados como argumentos a la función el objeto de la petición en crudo y código de estatus de la petición
             error : function(xhr, status, error) {
-                var jsonResponse = JSON.parse(xhr.responseText);
-                alert(jsonResponse.message);
-                //alert('Disculpe, existió un problema: '+xhr.responseText+' status: '+status);
+                alert('Disculpe, existió un problema: '+xhr.responseText);
             }
         });
     });
