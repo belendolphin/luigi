@@ -97,7 +97,7 @@
                                  <li><a href="#"><img src="img/uomo/5_thumb.jpg" alt=""></a></li>
                                  <li><a href="#"><img src="img/uomo/6_thumb.jpg" alt=""></a></li>
                                  <li><a href="#"><img src="img/uomo/7_thumb.jpg" alt=""></a></li>
-                                 <li><a href="#"><img src="img/uomo/8_thumb.jpeg" alt=""></a></li>
+                                 <li><a href="#"><img src="img/uomo/8_thumb.jpg" alt=""></a></li>
                                  <li><a href="#"><img src="img/uomo/9_thumb.jpg" alt=""></a></li>
                                  <li><a href="#"><img src="img/uomo/10_thumb.jpg" alt=""></a></li>
                                  <li><a href="#"><img src="img/uomo/11_thumb.jpg" alt=""></a></li>
