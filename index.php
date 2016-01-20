@@ -29,6 +29,7 @@ slides 					:  	[			// Slideshow Images
 </script>
  <link href="css/ldc.css" rel="stylesheet" type="text/css" />
 <link href="fonts/stylesheet.css" rel="stylesheet" type="text/css" />
+<!--<link href="css/styles.css" rel="stylesheet" type="text/css" />-->
 </head>
 	
 <body>

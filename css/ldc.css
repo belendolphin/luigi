@@ -50,7 +50,7 @@ width: 100%;
 /* BOTONES OVER*/
 #logo{
 	float: left;
-	height: 90px;
+	height:auto;
 	text-indent: -9999px;
 	width: 245px;
 	background-attachment: scroll;
@@ -59,7 +59,8 @@ width: 100%;
 	background-repeat: no-repeat;
 	background-position: 0 0;
 }
-#logo:hover{background-position: 0 -90px;
+#logo:hover{
+	background-position: 0 -90px;
 }
 
 #boton{
