@@ -8,8 +8,8 @@
     <li><a href="#">PRODUCTOS<span class="caret"></a>
       <div>
         <ul>
-          <li><a href="esp-productos-uomo.php">PRODUCTOS UOMO</a></li>
-          <li><a href="esp-productos-donna.php">PRODUCTOS DONNA</a></li>
+          <li><a href="esp-productos-uomo.php">UOMO</a></li>
+          <li><a href="esp-productos-donna.php">DONNA</a></li>
         </ul>
       </div>
     </li>
